@@ -1,3 +1,4 @@
+这是一个基于目前最新技术构建的一个demo可以供大家学习使用
 # collage-contest-manage-system
 # 大学生科技竞赛系统（开发中  Demo）
 ## 1、简介
